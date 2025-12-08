@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Laptop", "price": 60000, "category": "electronics", "inStock": true },
+  { "id": 2, "name": "Phone", "price": 25000, "category": "electronics", "inStock": false },
+  { "id": 3, "name": "Shoes", "price": 1500, "category": "fashion", "inStock": true },
+  { "id": 4, "name": "T-Shirt", "price": 800, "category": "fashion", "inStock": true },
+  { "id": 5, "name": "Coffee Mug", "price": 300, "category": "home", "inStock": false }
+]

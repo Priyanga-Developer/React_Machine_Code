@@ -1,4 +1,5 @@
 import "./App.css";
+import ProductApp from "./components/ProductApp UI/ProductApp";
 import SearchBox from "./components/SearchBox";
 import Todo from "./components/Todo";
 
@@ -8,6 +9,7 @@ function App() {
       <h1>React Machine code</h1>
       {/* <SearchBox/> */}
       {/* <Todo /> */}
+      <ProductApp/>
     </>
   );
 }
