@@ -7,7 +7,7 @@ function App() {
     <>
       <h1>React Machine code</h1>
       {/* <SearchBox/> */}
-      <Todo />
+      {/* <Todo /> */}
     </>
   );
 }
